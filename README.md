@@ -52,6 +52,3 @@ pip install pandas torch
 - The notebook currently predicts one token per question and uses a small dataset, so it is not production-ready.
 - You can extend this work by adding sequence-to-sequence decoding, padding, attention, or larger datasets.
 
-## License
-
-This repository does not include a license file. Feel free to use and adapt the code for learning and experimentation.
